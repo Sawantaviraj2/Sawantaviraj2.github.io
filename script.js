@@ -71,3 +71,6 @@ $(document).ready(function(){
         }
     });
 });
+function resume() {
+    window.open("https://drive.google.com/file/d/1OfUqlPWQuqY_I4Aai604-JO_bJ6BPzpn/view?usp=sharing");
+}
