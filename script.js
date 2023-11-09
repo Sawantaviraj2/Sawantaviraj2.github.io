@@ -33,12 +33,12 @@ document.getElementById('resume-link-1').addEventListener("click", () => {
   window.open("https://drive.google.com/file/d/1OfUqlPWQuqY_I4Aai604-JO_bJ6BPzpn/view?usp=sharing", "_blank");
 });
 
-// document.getElementById('resume-link-2').addEventListener("click", () => {
-//   console.log("Script file loaded successfully");
-//   window.open("https://drive.google.com/file/d/1OfUqlPWQuqY_I4Aai604-JO_bJ6BPzpn/view?usp=sharing", "_blank");
-// });
-
-document.getElementById('resume-link').addEventListener("click", () => {
+document.getElementById('resume-link-2').addEventListener("click", () => {
   console.log("Script file loaded successfully");
   window.open("https://drive.google.com/file/d/1OfUqlPWQuqY_I4Aai604-JO_bJ6BPzpn/view?usp=sharing", "_blank");
 });
+
+// document.getElementById('resume-link').addEventListener("click", () => {
+//   console.log("Script file loaded successfully");
+//   window.open("https://drive.google.com/file/d/1OfUqlPWQuqY_I4Aai604-JO_bJ6BPzpn/view?usp=sharing", "_blank");
+// });
